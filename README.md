@@ -1,0 +1,1 @@
+# Python from scratch\n\nThis repository contains notebooks for learning Python programming from the ground up. Open either notebook in Jupyter or Google Colab to work through the exercises.\n
